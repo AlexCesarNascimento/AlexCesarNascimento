@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alexcesar.n@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/lex_acn/)
 
-[Duke](https://i.imgur.com/cQ7ylrS.png)
+![Duke](https://i.imgur.com/cQ7ylrS.png)
 
 ### E agora um Lorem ipsum.
 
